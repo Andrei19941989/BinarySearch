@@ -1,0 +1,6 @@
+/Users/andrejsytenkov/RiderProjects/massiv/massiv/bin/Debug/massiv.exe
+/Users/andrejsytenkov/RiderProjects/massiv/massiv/bin/Debug/massiv.pdb
+/Users/andrejsytenkov/RiderProjects/massiv/massiv/obj/Debug/massiv.csproj.AssemblyReference.cache
+/Users/andrejsytenkov/RiderProjects/massiv/massiv/obj/Debug/massiv.csproj.CoreCompileInputs.cache
+/Users/andrejsytenkov/RiderProjects/massiv/massiv/obj/Debug/massiv.exe
+/Users/andrejsytenkov/RiderProjects/massiv/massiv/obj/Debug/massiv.pdb
